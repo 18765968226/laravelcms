@@ -21,3 +21,7 @@ Route::get('/about', function () {
 Route::get('/github', function () {
     return view('github');
 });
+
+Route::get('/add', function () {
+    return view('add');
+});
