@@ -22,6 +22,11 @@ Route::get('/github', function () {
     return view('github');
 });
 
+<<<<<<< HEAD
 Route::get('/add', function () {
     return view('add');
 });
+=======
+
+
+>>>>>>> 94e2e4fa5a55639bad38930dcaa9ab9c2a325dce
